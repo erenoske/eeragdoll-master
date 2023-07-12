@@ -1,2 +1,2 @@
-# eeblackout-master
+# ee blackout-master
 Simple fivem blackout script
