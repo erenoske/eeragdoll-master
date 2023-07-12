@@ -2,5 +2,5 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Erenoske, Berkayediz'
-description 'EchoRP MDT Rewrite for QBCore'
+description 'EE Simple Ragdoll Script'
 client_script 'client.lua'
